@@ -1,8 +1,8 @@
 print("Hello world")
 print("dev feature A")
 print("dev feature A bugfixes")
-cr = True
-if (cr):
+CR1A = True
+if (CR1A):
     print("dev feature A CR1")
     print("code changes in CR1")
 print("2021mt93695 feature B")
